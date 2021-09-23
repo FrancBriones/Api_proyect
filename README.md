@@ -1,0 +1,6 @@
+# Administrador de Proyectos de Investigacion de Backend
+
+Ejecutar el sgt el codigo para generar las dependecias
+...
+npm install
+...
